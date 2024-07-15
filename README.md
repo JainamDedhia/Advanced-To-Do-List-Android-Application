@@ -1,4 +1,4 @@
-# Prasunet_AD_02
+
 ## Advanced To-Do List Android Application
 
 Welcome to the To-Do List Android application repository, developed as part of the Android Development internship at Parsunet. This project delivers a feature-rich task management solution leveraging modern Android development practices and robust data handling techniques.
